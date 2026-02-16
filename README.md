@@ -33,4 +33,4 @@ To design and validate a fault-tolerant edge architecture that ensures uninterru
 
 ## Author
 **Selwyn Fernandes**
-CCNA Certified | Junior Network Engineer
+CCNA Certified | Network Engineer
